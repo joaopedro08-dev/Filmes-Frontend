@@ -2,7 +2,6 @@
 import Footer from './page/Footer.vue';
 import Header from './page/Header.vue';
 import Main from './page/Main.vue';
-
 </script>
 
 <template>
@@ -10,6 +9,3 @@ import Main from './page/Main.vue';
   <Main/>
   <Footer/>
 </template>
-
-<style scoped>
-</style>
